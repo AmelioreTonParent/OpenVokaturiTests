@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/openvokaturitests.dir/main.c.o  -o openvokaturitests 
