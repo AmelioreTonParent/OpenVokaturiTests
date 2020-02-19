@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/gedeffe/projects/OpenVokaturiTests/build",
+  "command": "/usr/bin/cc  -I/home/gedeffe/projects/OpenVokaturiTests/api  -g   -o CMakeFiles/openvokaturitests.dir/main.c.o   -c /home/gedeffe/projects/OpenVokaturiTests/main.c",
+  "file": "/home/gedeffe/projects/OpenVokaturiTests/main.c"
+},
+{
+  "directory": "/home/gedeffe/projects/OpenVokaturiTests/build",
+  "command": "/usr/bin/cc  -I/home/gedeffe/projects/OpenVokaturiTests/api  -g   -o CMakeFiles/openvokaturitests.dir/VokaWavMean.c.o   -c /home/gedeffe/projects/OpenVokaturiTests/VokaWavMean.c",
+  "file": "/home/gedeffe/projects/OpenVokaturiTests/VokaWavMean.c"
+}
+]
