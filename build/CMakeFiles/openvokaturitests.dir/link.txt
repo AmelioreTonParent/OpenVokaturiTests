@@ -1,1 +1,1 @@
-/usr/bin/cc    CMakeFiles/openvokaturitests.dir/main.c.o  -o openvokaturitests 
+/usr/bin/cc -g   CMakeFiles/openvokaturitests.dir/main.c.o  -o openvokaturitests  -L/home/gedeffe/projects/OpenVokaturiTests/lib/open/linux -Wl,-rpath,/home/gedeffe/projects/OpenVokaturiTests/lib/open/linux: ../lib/open/linux/libOpenVokaturi.o -lm 

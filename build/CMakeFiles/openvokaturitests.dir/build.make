@@ -90,6 +90,7 @@ openvokaturitests_EXTERNAL_OBJECTS =
 
 openvokaturitests: CMakeFiles/openvokaturitests.dir/main.c.o
 openvokaturitests: CMakeFiles/openvokaturitests.dir/build.make
+openvokaturitests: ../lib/open/linux/libOpenVokaturi.o
 openvokaturitests: CMakeFiles/openvokaturitests.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/gedeffe/projects/OpenVokaturiTests/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable openvokaturitests"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/openvokaturitests.dir/link.txt --verbose=$(VERBOSE)

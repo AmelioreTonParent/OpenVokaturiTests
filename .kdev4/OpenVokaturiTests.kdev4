@@ -1,3 +1,6 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00"\x00O\x00p\x00e\x00n\x00V\x00o\x00k\x00a\x00t\x00u\x00r\x00i\x00T\x00e\x00s\x00t\x00s)
+
 [CMake]
 Build Directory Count=1
 Current Build Directory Index-Host System=0
@@ -9,7 +12,7 @@ CMake Binary=/usr/bin/cmake
 CMake Executable=/usr/bin/cmake
 Environment Profile=
 Extra Arguments=
-Install Directory=
+Install Directory=/usr/local
 Runtime=Host System
 
 [Launch]
@@ -22,7 +25,7 @@ Name=openvokaturitests
 Type=Native Application
 
 [Launch][Launch Configuration 0][Data]
-Arguments=
+Arguments=/home/gedeffe/projects/OpenVokaturiTests/data/03-02-05-01-01-01-01.wav
 Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00"\x00O\x00p\x00e\x00n\x00V\x00o\x00k\x00a\x00t\x00u\x00r\x00i\x00T\x00e\x00s\x00t\x00s\x00\x00\x00"\x00o\x00p\x00e\x00n\x00v\x00o\x00k\x00a\x00t\x00u\x00r\x00i\x00t\x00e\x00s\x00t\x00s)
 Dependency Action=Build
 EnvironmentGroup=

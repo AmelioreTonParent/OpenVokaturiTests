@@ -6,9 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/home/gedeffe/projects/OpenVokaturiTests/main.c
+/home/gedeffe/projects/OpenVokaturiTests/./api/Vokaturi.h
+
+/home/gedeffe/projects/OpenVokaturiTests/VokaWav.h
+string.h
+-
 stdio.h
 -
 stdlib.h
 -
+stdint.h
+-
+math.h
+-
+./api/Vokaturi.h
+/home/gedeffe/projects/OpenVokaturiTests/./api/Vokaturi.h
+
+/home/gedeffe/projects/OpenVokaturiTests/main.c
+math.h
+-
+VokaWav.h
+/home/gedeffe/projects/OpenVokaturiTests/VokaWav.h
 
