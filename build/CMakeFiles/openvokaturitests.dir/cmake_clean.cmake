@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/openvokaturitests.dir/main.c.o"
+  "CMakeFiles/openvokaturitests.dir/VokaWavMean.c.o"
   "openvokaturitests.pdb"
   "openvokaturitests"
 )

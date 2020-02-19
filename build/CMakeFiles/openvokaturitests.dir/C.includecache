@@ -22,9 +22,23 @@ math.h
 ./api/Vokaturi.h
 /home/gedeffe/projects/OpenVokaturiTests/./api/Vokaturi.h
 
-/home/gedeffe/projects/OpenVokaturiTests/main.c
+/home/gedeffe/projects/OpenVokaturiTests/VokaWavMean.c
 math.h
 -
 VokaWav.h
 /home/gedeffe/projects/OpenVokaturiTests/VokaWav.h
+
+/home/gedeffe/projects/OpenVokaturiTests/main.c
+dirent.h
+-
+stdio.h
+-
+string.h
+-
+stdbool.h
+-
+time.h
+-
+./api/Vokaturi.h
+/home/gedeffe/projects/OpenVokaturiTests/./api/Vokaturi.h
 

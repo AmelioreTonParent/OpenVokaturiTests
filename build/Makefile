@@ -169,6 +169,33 @@ openvokaturitests/fast:
 	$(MAKE) -f CMakeFiles/openvokaturitests.dir/build.make CMakeFiles/openvokaturitests.dir/build
 .PHONY : openvokaturitests/fast
 
+VokaWavMean.o: VokaWavMean.c.o
+
+.PHONY : VokaWavMean.o
+
+# target to build an object file
+VokaWavMean.c.o:
+	$(MAKE) -f CMakeFiles/openvokaturitests.dir/build.make CMakeFiles/openvokaturitests.dir/VokaWavMean.c.o
+.PHONY : VokaWavMean.c.o
+
+VokaWavMean.i: VokaWavMean.c.i
+
+.PHONY : VokaWavMean.i
+
+# target to preprocess a source file
+VokaWavMean.c.i:
+	$(MAKE) -f CMakeFiles/openvokaturitests.dir/build.make CMakeFiles/openvokaturitests.dir/VokaWavMean.c.i
+.PHONY : VokaWavMean.c.i
+
+VokaWavMean.s: VokaWavMean.c.s
+
+.PHONY : VokaWavMean.s
+
+# target to generate assembly for a file
+VokaWavMean.c.s:
+	$(MAKE) -f CMakeFiles/openvokaturitests.dir/build.make CMakeFiles/openvokaturitests.dir/VokaWavMean.c.s
+.PHONY : VokaWavMean.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -209,6 +236,9 @@ help:
 	@echo "... install/local"
 	@echo "... rebuild_cache"
 	@echo "... install"
+	@echo "... VokaWavMean.o"
+	@echo "... VokaWavMean.i"
+	@echo "... VokaWavMean.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

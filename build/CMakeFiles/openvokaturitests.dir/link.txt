@@ -1,1 +1,1 @@
-/usr/bin/cc -g   CMakeFiles/openvokaturitests.dir/main.c.o  -o openvokaturitests  -L/home/gedeffe/projects/OpenVokaturiTests/lib/open/linux -Wl,-rpath,/home/gedeffe/projects/OpenVokaturiTests/lib/open/linux: ../lib/open/linux/libOpenVokaturi.o -lm 
+/usr/bin/cc -g   CMakeFiles/openvokaturitests.dir/main.c.o CMakeFiles/openvokaturitests.dir/VokaWavMean.c.o  -o openvokaturitests  -L/home/gedeffe/projects/OpenVokaturiTests/lib/open/linux -Wl,-rpath,/home/gedeffe/projects/OpenVokaturiTests/lib/open/linux: ../lib/open/linux/libOpenVokaturi.o -lm 

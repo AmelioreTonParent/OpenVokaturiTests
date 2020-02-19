@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/home/gedeffe/projects/OpenVokaturiTests/VokaWavMean.c" "/home/gedeffe/projects/OpenVokaturiTests/build/CMakeFiles/openvokaturitests.dir/VokaWavMean.c.o"
   "/home/gedeffe/projects/OpenVokaturiTests/main.c" "/home/gedeffe/projects/OpenVokaturiTests/build/CMakeFiles/openvokaturitests.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")

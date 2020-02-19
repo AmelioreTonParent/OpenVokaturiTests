@@ -17,7 +17,7 @@ add_library(OpenVokaturi STATIC IMPORTED)
 set_property(TARGET OpenVokaturi PROPERTY IMPORTED_LOCATION ${PROJECT_SOURCE_DIR}/lib/open/linux/libOpenVokaturi.o)
 
 
-add_executable(openvokaturitests main.c)
+add_executable(openvokaturitests main.c VokaWavMean.c)
 
 target_link_libraries(openvokaturitests OpenVokaturi)
 # to include math.h

@@ -40,6 +40,10 @@ typedef struct {
 	double sadness;
 	double anger;
 	double fear;
+    
+    // add extra information just for me
+    int valid;   // 1 = "there were voiced frames, so that the measurements are valid"; 0 = "no voiced frames found"
+
 } VokaturiEmotionProbabilities;
 
 void VokaturiVoice_setRelativePriorProbabilities (
