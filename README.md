@@ -9,16 +9,16 @@ And it concerns only wave files which provide a basic 16 bits PCM format.
 
 # Numbers
 
-Audio files analyzed =  2453 files.
-Audio files with expected anger analyzed =   373 files.
-Audio files with other emotions analyzed =  1822 files.
-Invalid files = 258 files.
-Correct anger answers =  41 %
-False negative answers =  58 %
-False negative answers with enough anger (more than 10 %) =  29 %
-Correct other emotions answers =  65 %
-False positive answers =  34 %
-It took 65.541223 seconds to execute
+- Audio files analyzed =  2453 files.
+- Audio files with expected anger analyzed =   373 files.
+- Audio files with other emotions analyzed =  1822 files.
+- Invalid files = 258 files.
+- Correct anger answers =  41 %
+- False negative answers =  58 %
+- False negative answers with enough anger (more than 10 %) =  29 %
+- Correct other emotions answers =  65 %
+- False positive answers =  34 %
+- It took 65.541223 seconds to execute
 
 # Conclusion
 
